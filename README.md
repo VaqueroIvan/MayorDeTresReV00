@@ -1,2 +1,2 @@
-# MayorDeTresReV00
+# NumerosMenorAMayor
 Created with CodeSandbox
